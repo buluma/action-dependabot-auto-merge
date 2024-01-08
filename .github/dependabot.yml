@@ -25,8 +25,8 @@ updates:
       include: scope
     schedule:
       interval: daily
-      time: "10:00"
-      timezone: America/Toronto
+      time: "22:00"
+      timezone: Africa/Nairobi
 
   - package-ecosystem: npm
     open-pull-requests-limit: 10
